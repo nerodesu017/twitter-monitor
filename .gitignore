@@ -1,7 +1,9 @@
 # Project custom
+.gitignore
 test/
 samples/
 dummy_data/
+trash/
 config.json
 *.zip
 *.rar
