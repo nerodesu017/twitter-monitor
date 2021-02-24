@@ -1,0 +1,186 @@
+{
+    "statuses": [
+        {
+            "created_at": "Mon Sep 07 18:13:53 +0000 2020",
+            "id": 1303033763484643329,
+            "id_str": "1303033763484643329",
+            "text": "RT @NeroAio: Might throw some invites later on\ud83e\udd70\nFriends may dm for an invite!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "NeroAio",
+                        "name": "NeroAIO",
+                        "id": 1296925421787852800,
+                        "id_str": "1296925421787852800",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1177501485334061057,
+                "id_str": "1177501485334061057",
+                "name": "nero",
+                "screen_name": "nerodesu017",
+                "location": "",
+                "description": ".",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 34,
+                "friends_count": 317,
+                "listed_count": 0,
+                "created_at": "Fri Sep 27 08:33:56 +0000 2019",
+                "favourites_count": 5023,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 818,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1277915779640459264\/qUqef2Yn_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1277915779640459264\/qUqef2Yn_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Sep 07 18:08:11 +0000 2020",
+                "id": 1303032328772517890,
+                "id_str": "1303032328772517890",
+                "text": "Might throw some invites later on\ud83e\udd70\nFriends may dm for an invite!",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1296925421787852800,
+                    "id_str": "1296925421787852800",
+                    "name": "NeroAIO",
+                    "screen_name": "NeroAio",
+                    "location": "",
+                    "description": "NeroAIO & NeroFNF",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7,
+                    "friends_count": 2,
+                    "listed_count": 0,
+                    "created_at": "Fri Aug 21 21:42:07 +0000 2020",
+                    "favourites_count": 1,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 4,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1303031852928823297\/xWgaA67s_normal.jpg",
+                    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1303031852928823297\/xWgaA67s_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.022,
+        "max_id": 1303033763484643329,
+        "max_id_str": "1303033763484643329",
+        "next_results": "?max_id=1303033763484643328&q=%40neroaio&include_entities=1",
+        "query": "%40neroaio",
+        "refresh_url": "?since_id=1303033763484643329&q=%40neroaio&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

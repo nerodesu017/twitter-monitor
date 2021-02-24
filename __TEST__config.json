@@ -1,0 +1,18 @@
+{
+    "twitter": {
+        "api": {
+            "key": "",
+            "secret_key": "",
+            "access_token": "",
+            "access_token_secret": "",
+            "bearer_token": ""
+        },
+        "timeout": 15000,
+        "initial_timeout": 15000,
+        "username": "fuckinero"
+    },
+    "discord": {
+        "webhook": "",
+        "timeout": 1000
+    }
+}
